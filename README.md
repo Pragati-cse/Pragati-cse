@@ -6,6 +6,7 @@ I enjoy learning new technologies, solving coding problems, and developing proje
 
 ## 🚀 About Me
 💻 Skilled in Full Stack Web Development using the MERN Stack.
+
 🌱 Currently strengthening Data Structures and Algorithms using Java.
 🧩 Practicing problem-solving through LeetCode.
 🤖 Exploring AI Application Engineering and Generative AI.
