@@ -1,21 +1,17 @@
 # Hi, I'm Pragati Jagadale 👋
 ### 💻 Interested in Software Development, Backend Engineering and AI Applications.
-I am a Computer Science Engineering student passionate about software development, problem-solving, backend engineering, and building practical applications.
-I enjoy learning new technologies, solving coding problems, and developing projects that strengthen my technical skills.
-
 
 ## 🚀 About Me
-💻 Skilled in Full Stack Web Development using the MERN Stack.
+I am a Computer Science Engineering student with a strong interest in Software Development and Backend Engineering.
 
-🌱 Currently strengthening Data Structures and Algorithms using Java.
+- 💻 Experienced in building full-stack web applications using the MERN Stack.
+- ☕ Practicing problem-solving with Java and Data Structures & Algorithms.
+- 🧩 Solved 150+ problems on LeetCode.
+- 🗄️ Interested in database management, SQL, and backend system development.
+- 🤖 Exploring AI Application Engineering and Generative AI.
+- 🚀 Focused on building practical projects and continuously improving my technical skills.
 
-🧩 Practicing problem-solving through LeetCode.
-
-🤖 Exploring AI Application Engineering and Generative AI.
-
-🗄️ Interested in SQL, Database Management and Backend Systems.
-
-🎯 Preparing for Software Engineering opportunities.
+I believe in learning by building, solving problems, and improving through consistent practice.
 
 ## 🛠️ Technical Skills
 
@@ -52,4 +48,4 @@ I enjoy learning new technologies, solving coding problems, and developing proje
 - 🐙 GitHub: [My GitHub](https://github.com/Pragati-cse)
 
 ## 📊 GitHub Activity
-More projects and contributions coming soon!
+More projects coming soon!
