@@ -1,7 +1,6 @@
 # Hi, I'm Pragati Jagadale 👋
-### 💻 Interested in Software Development, Backend Engineering and AI Applications.
 
-## 🚀 About Me
+##  👩‍💻 About Me
 I am a Computer Science Engineering student with a strong interest in Software Development and Backend Engineering.
 
 - 💻 Experienced in building full-stack web applications using the MERN Stack.
