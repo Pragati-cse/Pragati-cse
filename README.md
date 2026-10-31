@@ -8,16 +8,24 @@ I enjoy learning new technologies, solving coding problems, and developing proje
 💻 Skilled in Full Stack Web Development using the MERN Stack.
 
 🌱 Currently strengthening Data Structures and Algorithms using Java.
+
 🧩 Practicing problem-solving through LeetCode.
+
 🤖 Exploring AI Application Engineering and Generative AI.
+
 🗄️ Interested in SQL, Database Management and Backend Systems.
+
 🎯 Preparing for Software Engineering opportunities.
 
 ## 🛠️ Technical Skills
 Languages: Core Java, Python, JavaScript
+
 Frontend: HTML, CSS, React.js
+
 Backend: Node.js, Express.js, REST APIs, JWT Authentication
+
 Databse: MongoDB, MySQL
+
 Tools: GitHub, VS Code, Postman, axios
 
 ## 📊 GitHub Activity
