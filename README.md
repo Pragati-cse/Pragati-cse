@@ -1,5 +1,5 @@
 # Hi, I'm Pragati Jagadale 👋
-## 💻 Interested in Software Development, Backend Engineering and AI Applications.
+### 💻 Interested in Software Development, Backend Engineering and AI Applications.
 I am a Computer Science Engineering student passionate about software development, problem-solving, backend engineering, and building practical applications.
 I enjoy learning new technologies, solving coding problems, and developing projects that strengthen my technical skills.
 
