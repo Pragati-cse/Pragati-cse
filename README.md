@@ -5,7 +5,7 @@
 I am a Computer Science Engineering student with a strong interest in Software Development and Backend Engineering.
 
 - 💻 **Full-Stack Development:** Experienced in building web applications using the MERN Stack.
-- ☕ **Programming & DSA:** Practicing problem-solving using Java and Data Structures & Algorithms.
+- ☕ **Programming & DSA:** Practicing problem-solving ,  Data Structures & Algorithms Using Java.
 - 🧩 **Problem Solving:** Solved 150+ problems on LeetCode.
 - 🗄️ **Backend & Databases:** Interested in SQL, Database Management, and Backend Systems.
 - 🤖 **AI Application Development:** Exploring Generative AI and LLM Integration.
