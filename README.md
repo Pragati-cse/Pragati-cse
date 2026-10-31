@@ -28,5 +28,10 @@ Databse: MongoDB, MySQL
 
 Tools: GitHub, VS Code, Postman, axios
 
+## 🌐 Connect With Me
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pragati-jagadale-183434326/)
+- 💻 LeetCode: [My LeetCode](https://leetcode.com/u/pr_2006_ti/)
+- 🐙 GitHub: [My GitHub](https://github.com/Pragati-cse)
+
 ## 📊 GitHub Activity
 More projects and contributions coming soon!
